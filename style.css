@@ -9,6 +9,9 @@ html {
   scroll-behavior: smooth;
 }
 /*--------------Reusable----------------------*/
+.hide {
+  /* display: none; */
+}
 .btn {
   padding: 1.3rem 2.8rem;
   color: #fff;
